@@ -92,11 +92,8 @@ Find vehicles that have more than two bookings.
 
 ## ERD Link
 
-Paste your ERD public link here.
 
-Example:
-
-ERD Link: https://your-erd-link-here
+ERD Link: https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=erd.drawio&dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22Page-1%22%20id%3D%22iKpMpuFXHy1AOTLhEHNK%22%3EzVdtb9owEP41kboPlUJMoF%2FHWztVQ%2B1atn1DJrklVhM7sh0I%2B%2FVz5rw4DgOKhlQ%2BoNzj89l3zz1HcNA0Le45zuKvLITE8dywcNDM8bzxeKi%2BS2CvAX8w0kDESaihQQu8kN9QgW6F5iQE0XGUjCWSZF0wYJRCIDsY5pztum6%2FWNI9NcMR9ICXACd99AcJZazRO99t8QcgUVyfPHCrlRTXzhUgYhyynQGhuYOmnDGpn9JiCklZu7ouet%2FiH6vNxThQec6G9NVbPgYPy2XxOgyKn8P4eZncHohSQULu6xrsYiLhJcNBae8UzQ6axDJNlDVQj9p%2Fi5O88l8J4MLxFNFI0Ygmt9bHWMqV61rd0HNvnh4%2FGQsUp2CYkGJSJnOzWn55Xs1NzwwLsWM8NKGYUXM3ZyoVfUvgEgoj0apW98BSkHyvXGKTTlSRt2u5H9SEFg3l2t5b67hqvaiJ3bKjHiqC3kGWdw2yvkNMggTO5Gurvc%2BhTO4z00z1ZGg5gYgIybEkjK5pnm6AH%2Ba3TBYn64yTwIwnJJa5uIxV%2FzSrI89idXAtVn0dF8LeIOrTzHIewJFYqNcOQMPP5RhUFi1F0WkGznIaQnk591BrnK5kXUgOiSJy203AqK5%2FpHjVCU%2BMqGyb%2BqNxt%2F7ItULoWlS7zLFnBRpaRPbuIjGPQPYC%2FeWySftyetE1RDth7I3Q6EzRbrT3QdEaA3jRWegqvbumtMflOsSyM6JpaEO1RtuZwEopB0zIqwkX3VnCtRvnvwn37h3CPSjI%2BbcU0%2F0xSaoByd6aFw9PV3lBynvOGiLqcBssYIZFXOOG34eStjeyFHmptJF%2FItCVpV3%2FJFzeAQZlR3rA4LhpGZthuy%2FsvvlQHeDbM%2FnSDhi51%2BoAZbav5tq9%2FX%2BD5n8A%3C%2Fdiagram%3E%3C%2Fmxfile%3E
 
 ---
 
